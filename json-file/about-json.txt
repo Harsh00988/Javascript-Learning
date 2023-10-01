@@ -1,0 +1,5 @@
+json:
+it is used to represent data.
+it stands for java script object notation.
+it is used for APIs used to carry the information which is very lightweight.
+it is array of objects.
